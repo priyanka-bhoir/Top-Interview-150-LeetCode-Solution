@@ -1,4 +1,4 @@
-# [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+# [Top Interview 150 Problems form leetcode](https://leetcode.com/studyplan/top-interview-150/)
 
 ## Arrays
 
@@ -16,3 +16,9 @@
 
 * [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
 	-> [Solution](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Rotate Array](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/rotate-array/solutions/2938849/rotate-array-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution]()
