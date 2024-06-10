@@ -29,4 +29,8 @@
 * [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
 	-> [Solution](https://leetcode.com/problems/jump-game/solutions/2938875/jump-game-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
 
-	
+* [Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/1283986654/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/jump-game-ii/solutions/5290657/jump-game-ii-leetcode-java-solution-by-priyanka/)	
+
+* [H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution]()	
