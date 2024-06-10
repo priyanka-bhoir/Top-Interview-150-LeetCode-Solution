@@ -21,4 +21,12 @@
 	-> [Solution](https://leetcode.com/problems/rotate-array/solutions/2938849/rotate-array-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
 
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)
-	-> [Solution]()
+	-> [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/5287939/best-time-to-buy-and-sell-stock-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/2935105/best-time-to-buy-and-sell-stock-ii-leetcode-java-simple-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/jump-game/solutions/2938875/jump-game-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+	
