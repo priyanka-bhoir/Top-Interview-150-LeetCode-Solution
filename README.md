@@ -33,4 +33,15 @@
 	-> [Solution](https://leetcode.com/problems/jump-game-ii/solutions/5290657/jump-game-ii-leetcode-java-solution-by-priyanka/)	
 
 * [H-Index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150)
-	-> [Solution]()	
+	-> [Solution](https://leetcode.com/problems/h-index/solutions/5291047/h-index-leetcode-new-solution-java-solution/)
+
+* [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/insert-delete-getrandom-o1/solutions/5294054/insert-delete-getrandom-o-1-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-interview-150)
+	->[Solution](https://leetcode.com/problems/product-of-array-except-self/solutions/5295378/product-of-array-except-self-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/gas-station/solutions/5301187/gas-station-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* 					
