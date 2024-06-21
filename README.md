@@ -44,4 +44,14 @@
 * [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
 	-> [Solution](https://leetcode.com/problems/gas-station/solutions/5301187/gas-station-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
 
-* 					
+* [Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/candy/solutions/5318603/candy-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Optimized Mountian approach Solution](https://leetcode.com/problems/candy/solutions/5319775/candy-optimized-mountain-approach-leetcode-java-solution-by-priyanka/)
+
+* [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/trapping-rain-water/solutions/5340681/trapping-rain-water-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/roman-to-integer/solutions/5347658/roman-to-integer-leetcode-java-solution-by-priyanka/)
+
+* []						
