@@ -75,4 +75,7 @@
 * [Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150)
 	-> [Solution](https://leetcode.com/problems/text-justification/solutions/5372929/text-justification-leetcode-java-solution-by-priyanka/)
 
-## Two Pointers									
+## Two Pointers
+
+* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/valid-palindrome/solutions/3092957/valid-palindrome-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)									
