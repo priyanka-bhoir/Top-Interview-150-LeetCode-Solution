@@ -54,4 +54,25 @@
 * [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150)
 	-> [Solution](https://leetcode.com/problems/roman-to-integer/solutions/5347658/roman-to-integer-leetcode-java-solution-by-priyanka/)
 
-* []						
+* [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/integer-to-roman/solutions/5347835/integer-to-roman-leetcode-java-solution-by-priyanka/)
+
+* [Length of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/length-of-last-word/solutions/2935011/length-of-last-word-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/longest-common-prefix/solutions/5372944/longest-common-prefix-leetcode-java-solution-by-priyanka/)
+
+* [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/reverse-words-in-a-string/solutions/2894340/simple-way-to-solve-reverse-word-in-string/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/zigzag-conversion/solutions/5366659/zigzag-conversion-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/5366742/find-the-index-of-the-first-occurrence-in-a-string-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/text-justification/solutions/5372929/text-justification-leetcode-java-solution-by-priyanka/)
+
+## Two Pointers									
