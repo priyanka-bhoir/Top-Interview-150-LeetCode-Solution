@@ -78,4 +78,15 @@
 ## Two Pointers
 
 * [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150)
-	-> [Solution](https://leetcode.com/problems/valid-palindrome/solutions/3092957/valid-palindrome-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)									
+	-> [Solution](https://leetcode.com/problems/valid-palindrome/solutions/3092957/valid-palindrome-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/reverse-nodes-in-k-group/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/5377364/two-sum-ii-input-array-is-sorted-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/container-with-most-water/solutions/5230714/container-with-most-water-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+* []										
