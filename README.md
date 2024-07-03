@@ -89,4 +89,13 @@
 * [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150)
 	-> [Solution](https://leetcode.com/problems/container-with-most-water/solutions/5230714/container-with-most-water-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
 
-* []										
+* [3Sum](https://leetcode.com/problems/3sum/description/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Solution](https://leetcode.com/problems/3sum/solutions/5403024/3sum-leetcode-java-solution-by-priyanka/?envType=study-plan-v2&envId=top-interview-150)
+
+## Sliding Window
+
+* [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/)									
+	-> [Solution](https://leetcode.com/problems/minimum-size-subarray-sum/solutions/5403933/minimum-size-subarray-sum-leetcode-java-solution-by-priyanka/)
+
+* [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/?envType=study-plan-v2&envId=top-interview-150)
+	-> [Sol]	
